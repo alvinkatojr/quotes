@@ -2,8 +2,8 @@ GEM
   remote: https://rubygems.org/
   specs:
     rack (1.6.4)
-    rulers (0.1.0)
-      rack
+    rulers (0.2.0)
+      rack (~> 1.6, >= 1.6.4)
 
 PLATFORMS
   ruby
