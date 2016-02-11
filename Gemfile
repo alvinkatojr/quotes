@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
- gem 'rulers'
+ gem 'rulers', :git => "https://gitlab.com/alvinkatojr/rulers.git", :branch => "master"
