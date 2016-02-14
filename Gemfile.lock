@@ -1,6 +1,6 @@
 GIT
   remote: https://gitlab.com/alvinkatojr/rulers.git
-  revision: dc8383f15ed9511864a6738550b629ae3a293fe8
+  revision: e6102ea171f5c5afdf7233d2893a8796c09c5d60
   branch: master
   specs:
     rulers (0.2.0)
